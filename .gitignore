@@ -1,4 +1,8 @@
-/notessharing
+/static
+/templates
+/nssapp
+/db.sqlite3
+/manage.py
 /SQL File
 /venv
 /Installation-Guide.docx
