@@ -82,3 +82,57 @@ Online-Notes-Sharing-System-Django/
         ├── notessharing/
         ├── static/
         └── templates/
+```
+## 🚀 How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Prayasit/Online-Notes-Sharing-System.git
+cd Online-Notes-Sharing-System
+```
+### 2. Navigate to the Django project
+```cd nss/notessharing```
+
+### 3. Install Django
+```pip install django```
+
+### 4. Run the development server
+```python manage.py runserver```
+
+Open http://127.0.0.1:8000/ in your browser.
+
+## 📖 Documentation
+
+### Additional project documentation is available in the Documentation/ folder, including:
+
+- Project Thesis
+- Project Synopsis
+- Project Presentation
+- Application screenshots
+
+## 🔮 Future Enhancements
+
+### Possible future improvements include:
+
+- Cloud-based file storage
+- AI-based note recommendations
+- Discussion and chat functionality
+- Plagiarism detection
+- Mobile application
+- Institutional-level user roles
+- Advanced security features
+
+
+## 👨‍💻 Authors
+
+**Prayas Gotefode**  
+MCA Student
+
+**Shiwani Amrute**  
+MCA Student
+
+
+## 📄 License
+
+This project was developed as an academic mini project.
