@@ -193,4 +193,4 @@ Additional material is available in the [`Documentation/`](Documentation/) folde
 
 ## License
 
-Developed as an academic mini project. Add a license file (for example MIT) if you plan to allow reuse.
+Developed as an academic mini project.
