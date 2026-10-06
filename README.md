@@ -2,25 +2,13 @@
 
 A Django-based web application that lets students and teachers upload, manage, search, and download academic study materials from one central platform.
 
-
-
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-
-
-
-
 ![Django](https://img.shields.io/badge/Django-Framework-green)
-
-
-
-
-![Database](https://img.shields.io/badge/Database-SQLite-lightgrey)
-
-
-
-
-![License](https://img.shields.io/badge/Project-Academic-orange)
-
+![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey)
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
 
 
 ## Table of Contents
